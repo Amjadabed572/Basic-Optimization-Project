@@ -1,6 +1,5 @@
 #Introduction To Animation and Robotics – Assignment 1: Optimization and Visualization
 **Name:** Amjad Abd El Rahim 
-**ID:** 207570227
 
 ---
 
